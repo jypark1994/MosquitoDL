@@ -1,0 +1,6 @@
+0 Aedes albopictus
+1 Aedes vexans
+2 Anopheles sinensis
+3 Culex pipiens
+4 Culex tritaeniorhynchus
+5 Non vectors
