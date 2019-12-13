@@ -11,7 +11,7 @@ Dataset for Train/Validation and Test are available on the link below.
 Images (120.8MB)  
 - [Train/Val + Test](https://drive.google.com/open?id=1aIlFzGdjhu9XFQkNtdk_n8qiM88zp3XY)
 
->  This dataset includes about 6,000 images selected from the the raw images (approx. 3,600 images). We built Train/Val dataset using 3,000 images, and Test dataset using the rest 600 images with 5 times of data augmentation. (3,000 images). We treat the image label as separated folders. (e.g: "./TrainVal/Aedes albopictus/*.jpg")
+>  This dataset includes about 6,000 images selected from the the raw images (approx. 3,600 images). We built Train/Val dataset using 3,000 images, and Test dataset using the rest 600 images with 5 times of data augmentation. (3,000 images). We treat the image label as the name of each separated folder. (e.g: "./TrainVal/Aedes albopictus/*.jpg")
 
 
 
