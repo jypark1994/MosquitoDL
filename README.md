@@ -17,9 +17,9 @@ Images (120.8MB)
 
   
 Weights (720MB)  
-- [Essential Weights](https://drive.google.com/open?id=1ZzrnfPmYeaXGIbPxx2BYmLKtLxSNkqRM) (Only augmented + finetuned weights)  
+- [Weights](https://drive.google.com/open?id=1ZzrnfPmYeaXGIbPxx2BYmLKtLxSNkqRM) (Only augmented + finetuned weights)  
   
-> Essential Weights include pytorch weight files of three architectures(ResNet50, VGG16, SqueezeNet) trained with data augmentation(aug) and finetuning(pt) method.  
+> Weights include pytorch weight files of three architectures(ResNet50, VGG16, SqueezeNet) trained with data augmentation(aug) and finetuning(pt) method.  
 
 |Model		 |Weight Name		|Test Accuracy(%)	|
 |:------:|:--------------------:|:-----------:|
