@@ -43,8 +43,6 @@ cv2>=4.1.2
 ## Usage  
 1. trainer.py : Train model and save weights(*.pth).  
   
-- trainer_vgg16_partial.py works similarly to train vgg16 (View detail with -h)  
-  
    `python3 trainer.py -a [augmented] -p [pretrained] -r [learning_rate] -n [num_workers] -b [batch_size] -m [model_name] -e [num_epochs] -d [data_folder]  -t [output_folder]`  
      
    -a : Set data augmentation. (Default : 1)  
