@@ -31,8 +31,27 @@ Weights (720MB)
   
 2. Unpack the zip files on the root of the project folder.  
   
-> To be like following : `./{Project_Root}/Weights, ./{Project_Root}/Datasets`  
-  
+> To be like following : `./{Project_Root}/Weights, ./{Project_Root}/Datasets`
+
+### Raw mosquito images
+- [Raw Images (2.5GB)](https://drive.google.com/open?id=1XW1vrNSmNbXOqC9BoXbSIkDJlRtd-lOP)
+
+> Including the mosquito images without data augmentation, cropping.
+
+> Filename : {BRIGHTNESS(REL)}\_{Abb. SPECIES}\_{INDEX}.JPG (e.g: 0_Ak_1.JPG)
+
+|Species		 |Potential Vector Disease		| Captured Location |# of images	|
+|:------:|:--------------------:|:-----------:|:-----------:|
+|*Ae. albopictus*	|Zika, Dengue	|Jong-no Seoul	|600| 
+|*Ae. vexans*	|Zika, Westnile virus	|Tanhyeon Paju	|591|
+|*Anopheles* spp.	 |Malaria	|Tanhyeon Paju	|593|
+|*Cx. pipiens*	 |Westnile virus	|Jong-no Seoul	|600|
+|*Cx. tritaeniorhynchus*	 |Japanese Encephalitis	|Tanhyeon Paju	|594|
+|:------:|:--------------------:|:-----------:|:-----------:|
+|*Ae. dorsalis*	 |-	|Tanhyeon Paju	|200|
+|*Ae. koreikus*	 |-	|Tanhyeon Paju	|200|
+|*Cx. inatomii*	 |-	|Tanhyeon Paju	|200|
+
 ## Dependencies  
 python3>=3.7.x  
   
